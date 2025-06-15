@@ -1,0 +1,17 @@
+# === React (Frontend) ===
+Frontend/node_modules/
+Frontend/build/
+Frontend/.env
+
+# === ASP.NET Core (Backend) ===
+Backend/**/bin/
+Backend/**/obj/
+Backend/**/.vs/
+Backend/**/*.user
+Backend/**/*.suo
+
+# === IDE & System files ===
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
